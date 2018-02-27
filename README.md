@@ -1,26 +1,23 @@
 # Store-Test
-Store-Test-27022018
+Technology Assessment- Exercise 1-PHP v.474 and MySQL v7
 
 
-Problem Desc:
-
-On a retail website, the following discounts apply:
-
-If the user is an employee of the store, he gets a 30% discount
-If the user is an affiliate of the store, he gets a 10% discount
-If the user has been a customer for over 2 years, he gets a 5% discount.
-For every $100 on the bill, there would be a $ 5 discount (e.g. for $ 990, you get $ 45 as a discount).
-The percentage based discounts do not apply on groceries. 6. A user can get only one of the percentage based discounts on a bill.
+The Retail Store Discounts -Problem Desc: on a retail website, the following discounts apply:
+1.If the user is an employee of the store, he gets a 30% discount
+2.If the user is an affiliate of the store, he gets a 10% discount
+3.If the user has been a customer for over 2 years, he gets a 5% discount.
+4.For every $100 on the bill, there would be a $5 discount (e.g. for $990, you get $45 as a discount)
+5.The percentage based discounts do not apply on groceries
+6. A user can get only one of the percentage based discounts on a bill
 
 Solution:
 
-1-import DB file "db_project.sql"
+1-Import DB file "db_project.sql"
 it will create 5 tables (cart, categories, product, users, user_oders).
-2-place all the content of "src" folder at your server root.
-3-change config.php file which contains all credentials and settings such as db name, db user name, db password and grocery category id.
-
-
-
+2-Place all the content of "src" folder at your server root.
+3-Change config.php file which contains all credentials and settings such as db name, db user name, db password and grocery category id.
+4-UML Class Diagram attached "UML Class Diagram.jpg"
+5-Unit Testing is mentioned below and how to test
 //To begin the test, you have to declare below objects from Order class as shown below:
 To test an employee user, use user number 1 and cart 1
 Test cases for user number 1,cart number 1
