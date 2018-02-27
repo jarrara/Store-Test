@@ -12,7 +12,7 @@ The Retail Store Discounts -Problem Desc: on a retail website, the following dis
 
 5.The percentage based discounts do not apply on groceries.
 
-6. A user can get only one of the percentage based discounts on a bill.
+6.A user can get only one of the percentage based discounts on a bill.
 
 Solution:
 
