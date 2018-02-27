@@ -1,5 +1,5 @@
 # Store-Test
-Technology Assessment- Exercise 1-PHP v.474 and MySQL v7
+Technology Assessment- Exercise 1-PHP v.7 and MySQL v.4
 
 
 The Retail Store Discounts -Problem Desc: on a retail website, the following discounts apply:
